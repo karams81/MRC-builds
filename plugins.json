@@ -290,10 +290,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.de&sz=%size%",
-    "fileHash": "sha256-8ab3c6be0a8d5829578effa13cd039de072f3c37c810008e602acbd7ec282b7f",
+    "fileHash": "sha256-72af110367e0ee57431545aec37c7d8c88486bb7df6e52b67457357245d0b317",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 32279,
+    "fileSize": 34630,
     "status": 1,
     "language": "tr",
     "authors": [
