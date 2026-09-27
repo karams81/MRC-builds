@@ -268,10 +268,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.org&sz=128",
-    "fileHash": "sha256-0a4b26029b092be45e185d78174111e0eff38cdd80993786d865cf3cc28c6bb2",
+    "fileHash": "sha256-ca3dbee90227e52795de6e764c978120911e42071658790f2a36c9e033554a57",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 16672,
+    "fileSize": 18126,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -720,10 +720,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=jetfilmizle.now",
-    "fileHash": "sha256-a7311b2859ebb5d3d9eb6eb747c63ceff7d880080f81b60c0e4823b6d0da50d5",
+    "fileHash": "sha256-8f7a2633d5332b2a9413f9ec305cb082e55b9ac0444e58ce63c500ba380e1894",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 18391,
+    "fileSize": 18465,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -782,10 +782,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://lovefilmizle.net&sz=%size%",
-    "fileHash": "sha256-85a7c8f11c4bf00c0f436f312c9af0f734c2e09377377089e76c6c11922e5593",
+    "fileHash": "sha256-adcae75fbbf018f1bdf90123c666b32f18492733b7562e0709569c449fe3bd81",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 33657,
+    "fileSize": 36398,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -969,10 +969,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sinemacc.com",
-    "fileHash": "sha256-c212be4a807eee7a6afd9c2339ed9dc320248fcac8daebeae579ac83ab4badd0",
+    "fileHash": "sha256-cc8a978fa04dc297ddb57e152c6109a553d7d19932e01f5ab1d2f57e6b4f2387",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 18237,
+    "fileSize": 18556,
     "status": 0,
     "language": "tr",
     "authors": [
@@ -1194,10 +1194,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=movies2watch.watch&sz=%size%",
-    "fileHash": "sha256-97111645ab3f4276b522e97900e6d25175c453f02a52bf6a32270865065a1c4a",
+    "fileHash": "sha256-69edd25002671a31cc03746d3696d95ffb6f62c2f9ccc26738dc2dcd1fbdb434",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 24877,
+    "fileSize": 24893,
     "status": 1,
     "language": "en",
     "authors": [
