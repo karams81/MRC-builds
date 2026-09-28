@@ -290,10 +290,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.de&sz=%size%",
-    "fileHash": "sha256-2208b8e83b6a39ed52bf1466ea0ff76aa500d98f38f4564b04cbae49d940098d",
+    "fileHash": "sha256-4b2fa551d93e7f2ba1c2ba59f5ca1f1900b111db5619b79c3696d5f1456c1774",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 34769,
+    "fileSize": 35533,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -391,10 +391,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.dizimom.surf&sz=%size%",
-    "fileHash": "sha256-96d8a454b238c2853124656963f069636d5cc2caabd93c9b95457122e394061c",
+    "fileHash": "sha256-e17dd1510b1ce46ae80017adcda365e1e7e393228647dde96b17265cb7b29f2a",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 27023,
+    "fileSize": 27027,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -404,7 +404,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 6,
+    "version": 7,
     "internalName": "DiziMom",
     "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziMom.cs3",
