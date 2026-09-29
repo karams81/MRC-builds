@@ -266,10 +266,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizibal.org&sz=128",
-    "fileHash": "sha256-f6309e793eb214e678f031e6cab85a0777c63c3e8b5ca17865ca5e7cfb5e4c1c",
+    "fileHash": "sha256-d280d6cb1a0de45f34e2a4e30cd35b1242b20fbdf7578d1dd7ddaa4eb30773be",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 16676,
+    "fileSize": 17133,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -280,7 +280,7 @@
       "TvSeries",
       "Anime"
     ],
-    "version": 5,
+    "version": 6,
     "internalName": "DiziBal",
     "description": "En popüler yabancı dizileri yeni bölümleriyle takip edin. HBO, Netflix, Apple TV+ yapımları Türkçe altyazılı olarak dizibaL'da!",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziBal.cs3",
@@ -759,10 +759,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hdfilmdelisi.one",
-    "fileHash": "sha256-303502df540dfd38972c07d52ae629bce2cb49db1d901d48c7c1cd2dfb534d88",
+    "fileHash": "sha256-47ad511685a1dbfc95cf4d1ec8772d8bd846900ea7d8db46d4d5834e858bdbb9",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 27842,
+    "fileSize": 29025,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -772,7 +772,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 15,
+    "version": 16,
     "internalName": "HDFilmDelisi",
     "description": "Dublaj ve altyazÄ±lÄ± HD filmler ve diziler (MRC)",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/HDFilmDelisi.cs3",
