@@ -163,10 +163,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.atv.com.tr&sz=%size%",
-    "fileHash": "sha256-7602ccfb170298fcc1b8d09876a2e262e61e7dc30c4bf36c9cb6635a35be6367",
+    "fileHash": "sha256-e8c032848f43da68a202a352b72eac67aac8915682a8afc55e8122d97aef7bed",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 26796,
+    "fileSize": 30542,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -176,7 +176,7 @@
       "TvSeries",
       "Live"
     ],
-    "version": 6,
+    "version": 7,
     "internalName": "Atv",
     "description": "ATV dizileri, programları ve canlı yayın.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Atv.cs3",
