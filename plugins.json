@@ -310,10 +310,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.de&sz=%size%",
-    "fileHash": "sha256-a750e19782a4f5930e4ef9c93f11ee63724ee3fef4169afed38ae5c3cb4b1403",
+    "fileHash": "sha256-2a47fb85b0f132e144f21a830ed68a48003adeccbad879142a22620f26b94a3c",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 38917,
+    "fileSize": 40743,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -322,7 +322,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 17,
+    "version": 18,
     "internalName": "DiziBox",
     "description": "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site..",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziBox.cs3",
@@ -411,11 +411,11 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizimag.net&sz=%size%",
-    "fileHash": "sha256-1784f84bf59fd758976312050e0507501a7c10e1af718014acaf0f2f5be100fc",
+    "fileHash": "sha256-6b95aa2e8a23c010a14d3b6daf8460bf3f79d591776ddf5927939d55c106c31b",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 48220,
-    "status": 3,
+    "fileSize": 57357,
+    "status": 0,
     "language": "tr",
     "authors": [
       "MRC"
@@ -423,7 +423,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "DiziMag",
     "description": "En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziMag.cs3",
