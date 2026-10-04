@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 
 <!-- EKLENTI-LISTESI-SITEDE -->
 
-You can always see the full list of the **66 extensions**, their versions and their **live status** on our website:
+You can always see the full list of the **72 extensions**, their versions and their **live status** on our website:
 
 <div align="center">
 
